@@ -1,0 +1,23 @@
+
+Instructors
+
+Kevin Leyton-Brown
+Associate Professor, Department of Computer Science
+University of British Columbia
+
+Matt O. Jackson
+Professor of Economics, Stanford University
+
+Yoav Shoham
+Professor of Computer Science, Stanford University
+
+
+Game theory is about all kinds of strategic interactions among self interested agents, including those frivolous ones (poker, soccer, baseball) but also much more serious ones
+
+To solve problems in the real world, it's necessary to leverage ideas from algorithms, complexity theory, and artificial intelligence to make them work in practice
+
+Syllabus: http://web.stanford.edu/~jacksonm/GTOC-Syllabus.html
+
+Backoff mechanism in the TCP protocol: When acknowledgement is not recieved by sender it resends the packet at a slower rate assuming there is a congestion; the transmission becomes smoother when all computers behave the same
+
+A game in general is any interaction between two or more people where the outcomes of the interaction depend on what everybody does and everybody has different levels of happiness for the different outcomes.
